@@ -4,16 +4,17 @@ using UnityEngine;
 
 public class HelloWorld : MonoBehaviour
 {
-    // Start is called before the first frame update  
+    // Start se usa al principio del todo.
     void Start()
     {
-        //pues... un saludo :)
-        print("Hello World!");
+        // Pues... un saludo :)
+        print("Hola Mundo!");
     }
 
-    // Update is called once per frame  
+    // Update se hace una vez por cada frame.
     void Update()
     {
 
     }
 }
+
